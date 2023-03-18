@@ -23,9 +23,8 @@ main:after {
 }
 
 .informacoes .logo {
-	background: #FFA500;
+	
 	max-width: 350px;
-	filter: invert(1);
 	margin-bottom: 80px;
 }
 
